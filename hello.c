@@ -14,7 +14,7 @@ int main(int argc, char **argv) {
     char *author_name = "Ilian Campi";
 
     printf("%s\n", author_name);
-    printf("Majors:\nMathematics and Computer Science");
+    printf("Majors:\nMathematics and Computer Science\n");
 
     return 0;
 }
